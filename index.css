@@ -370,16 +370,16 @@
     justify-content: space-around;
     align-items: center;
     z-index: 100;
-    padding: 5px ;
+    padding: 10px ;
   }
 
   .footing i {
-    font-size: 28px;
+    font-size: 30px;
   }
 
   .footing .profile-img {
-    width: 28px;
-    height: 28px;
+    width: 30px;
+    height: 30px;
     border-radius: 50%;
   }
 }
