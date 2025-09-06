@@ -358,7 +358,6 @@
   .main {
     flex: 1;
     width: 100%;
-    padding: 10px;
     overflow-y: auto; /* scroll only main */
   }
 
@@ -443,14 +442,14 @@
     justify-content: space-around;
     align-items: center;
     z-index: 100;
-    padding: 5px 0;
+    padding: 10px;
   }
 
   .footing i {
     font-size: 28px;
   }
 
-  .footing .profile-img {
+  .footing-img {
     width: 28px;
     height: 28px;
     border-radius: 50%;
