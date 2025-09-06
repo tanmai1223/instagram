@@ -291,7 +291,7 @@
 
   /* Stories horizontal scroll */
   .stories {
-    height: 23vw;
+    height: 25vw;
     margin: 10px 10px;
     display: flex;
     gap: 10px;
@@ -370,7 +370,7 @@
     justify-content: space-around;
     align-items: center;
     z-index: 100;
-    padding: 5px 0;
+    padding: 5px ;
   }
 
   .footing i {
