@@ -285,7 +285,7 @@
   .main {
     flex: 1;
     width: 100%;
-    padding: 10px;
+   
     overflow-y: auto; /* scroll only main */
   }
 
@@ -377,7 +377,7 @@
     font-size: 30px;
   }
 
-  .footing .profile-img {
+  .footing-img {
     width: 30px;
     height: 30px;
     border-radius: 50%;
