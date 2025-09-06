@@ -363,8 +363,8 @@
 
   /* Stories horizontal scroll */
   .stories {
-    height: 23vw;
-    margin: 10px 10px;
+    height: 25vw;
+    margin: 10px 5px;
     display: flex;
     gap: 10px;
     overflow-x: auto;
@@ -388,10 +388,6 @@
   }
 
   /* Feed section */
-  .feed {
-    padding: 0 5px;
-  }
-
   .card {
     margin-bottom: 10px;
   }
